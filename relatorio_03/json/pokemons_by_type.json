@@ -1,0 +1,270 @@
+[
+    {
+        "_id": {
+            "$oid": "640a792454cdbdee60935b49"
+        },
+        "id": 56,
+        "num": "056",
+        "name": "Mankey",
+        "img": "http://www.serebii.net/pokemongo/pokemon/056.png",
+        "type": [
+            "Fighting"
+        ],
+        "height": "0.51 m",
+        "weight": "28.0 kg",
+        "candy": "Mankey Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.92,
+        "avg_spawns": 92,
+        "spawn_time": "12:52",
+        "multipliers": [
+            2.17,
+            2.28
+        ],
+        "weaknesses": [
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ],
+        "next_evolution": [
+            {
+                "num": "057",
+                "name": "Primeape"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640a792454cdbdee60935b4a"
+        },
+        "id": 57,
+        "num": "057",
+        "name": "Primeape",
+        "img": "http://www.serebii.net/pokemongo/pokemon/057.png",
+        "type": [
+            "Fighting"
+        ],
+        "height": "0.99 m",
+        "weight": "32.0 kg",
+        "candy": "Mankey Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.031,
+        "avg_spawns": 3.1,
+        "spawn_time": "12:33",
+        "multipliers": null,
+        "weaknesses": [
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ],
+        "prev_evolution": [
+            {
+                "num": "056",
+                "name": "Mankey"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640a792454cdbdee60935b4f"
+        },
+        "id": 62,
+        "num": "062",
+        "name": "Poliwrath",
+        "img": "http://www.serebii.net/pokemongo/pokemon/062.png",
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "height": "1.30 m",
+        "weight": "54.0 kg",
+        "candy": "Poliwag Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.011,
+        "avg_spawns": 1.1,
+        "spawn_time": "01:32",
+        "multipliers": null,
+        "weaknesses": [
+            "Electric",
+            "Grass",
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ],
+        "prev_evolution": [
+            {
+                "num": "060",
+                "name": "Poliwag"
+            },
+            {
+                "num": "061",
+                "name": "Poliwhirl"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640a792454cdbdee60935b53"
+        },
+        "id": 66,
+        "num": "066",
+        "name": "Machop",
+        "img": "http://www.serebii.net/pokemongo/pokemon/066.png",
+        "type": [
+            "Fighting"
+        ],
+        "height": "0.79 m",
+        "weight": "19.5 kg",
+        "candy": "Machop Candy",
+        "candy_count": 25,
+        "egg": "5 km",
+        "spawn_chance": 0.49,
+        "avg_spawns": 49,
+        "spawn_time": "01:55",
+        "multipliers": [
+            1.64,
+            1.65
+        ],
+        "weaknesses": [
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ],
+        "next_evolution": [
+            {
+                "num": "067",
+                "name": "Machoke"
+            },
+            {
+                "num": "068",
+                "name": "Machamp"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640a792454cdbdee60935b54"
+        },
+        "id": 67,
+        "num": "067",
+        "name": "Machoke",
+        "img": "http://www.serebii.net/pokemongo/pokemon/067.png",
+        "type": [
+            "Fighting"
+        ],
+        "height": "1.50 m",
+        "weight": "70.5 kg",
+        "candy": "Machop Candy",
+        "candy_count": 100,
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.034,
+        "avg_spawns": 3.4,
+        "spawn_time": "10:32",
+        "multipliers": [
+            1.7
+        ],
+        "weaknesses": [
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ],
+        "prev_evolution": [
+            {
+                "num": "066",
+                "name": "Machop"
+            }
+        ],
+        "next_evolution": [
+            {
+                "num": "068",
+                "name": "Machamp"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640a792454cdbdee60935b55"
+        },
+        "id": 68,
+        "num": "068",
+        "name": "Machamp",
+        "img": "http://www.serebii.net/pokemongo/pokemon/068.png",
+        "type": [
+            "Fighting"
+        ],
+        "height": "1.60 m",
+        "weight": "130.0 kg",
+        "candy": "Machop Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.0068,
+        "avg_spawns": 0.68,
+        "spawn_time": "02:55",
+        "multipliers": null,
+        "weaknesses": [
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ],
+        "prev_evolution": [
+            {
+                "num": "066",
+                "name": "Machop"
+            },
+            {
+                "num": "067",
+                "name": "Machoke"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640a792454cdbdee60935b7b"
+        },
+        "id": 106,
+        "num": "106",
+        "name": "Hitmonlee",
+        "img": "http://www.serebii.net/pokemongo/pokemon/106.png",
+        "type": [
+            "Fighting"
+        ],
+        "height": "1.50 m",
+        "weight": "49.8 kg",
+        "candy": "None",
+        "egg": "10 km",
+        "spawn_chance": 0.02,
+        "avg_spawns": 2,
+        "spawn_time": "03:59",
+        "multipliers": null,
+        "weaknesses": [
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640a792454cdbdee60935b7c"
+        },
+        "id": 107,
+        "num": "107",
+        "name": "Hitmonchan",
+        "img": "http://www.serebii.net/pokemongo/pokemon/107.png",
+        "type": [
+            "Fighting"
+        ],
+        "height": "1.40 m",
+        "weight": "50.2 kg",
+        "candy": "None",
+        "egg": "10 km",
+        "spawn_chance": 0.022,
+        "avg_spawns": 2.2,
+        "spawn_time": "05:58",
+        "multipliers": null,
+        "weaknesses": [
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ]
+    }
+]
