@@ -9,7 +9,7 @@ python -m venv .venv
 ~~~
 
 2. Ativar virtual env
-~~~python
+~~~
 .venv\Scripts\activate
 ~~~
 
