@@ -8,3 +8,4 @@ class Passageiro:
             "nome": self.nome,
             "documento": self.documento
         }
+        

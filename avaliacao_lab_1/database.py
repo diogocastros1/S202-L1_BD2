@@ -23,3 +23,4 @@ class Database:
             print("Banco de dados resetado com sucesso!")
         except Exception as e:
             print(e)
+            
